@@ -1,0 +1,5 @@
+{
+  "name": "Renko Quant Strategist",
+  "description": "Intraday Nifty 50 Options backtesting tool using Prashant Shah’s Renko Methodology with EMA filters and RSI momentum.",
+  "requestFramePermissions": []
+}
